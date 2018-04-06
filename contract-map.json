@@ -12,6 +12,19 @@
     "erc20": true,
     "symbol": "xft",
     "decimals": 0
+  },
+  "0x78319B9CC4047F7d80aacF97629a7c9ac58b752a":{
+    "name":"tsukasa",
+    "logo":"tsukasa.jpg",
+    "erc20": true,
+    "symbol": "TKS",
+    "decimals": 0
+  },
+  "0x37b177B989FB0C3101eea1d4E98aCeA6893113EB":{
+    "name":"Nukoco",
+    "logo":"nukoco_token.jpg",
+    "erc20": true,
+    "symbol": "NKC",
+    "decimals": 0
   }
-
 }
