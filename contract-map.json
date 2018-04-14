@@ -26,5 +26,12 @@
     "erc20": true,
     "symbol": "NKC",
     "decimals": 0
+  },
+  "0xEa31564F24C635BA1c75A247cC31339c301888Ce":{
+    "name":"240 Token",
+    "logo":"240_R.jpg",
+    "erc20": true,
+    "symbol": "240",
+    "decimals": 0
   }
 }
