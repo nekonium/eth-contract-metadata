@@ -33,5 +33,12 @@
     "erc20": true,
     "symbol": "240",
     "decimals": 0
+  },
+  "0x3ABc7Ffa35BFC5D6547928A0053218ab1f098a17":{
+    "name":"NIKUKYU",
+    "logo":"nikukyu1.png",
+    "erc20": true,
+    "symbol": "NKQ",
+    "decimals": 0
   }
 }
